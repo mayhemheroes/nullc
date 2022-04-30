@@ -1,0 +1,6 @@
+project: mayhem-nullc
+target: nullcl
+image: ghcr.io/rnshah9/mayhem-nullc
+
+cmds:
+  - cmd: ./nullcl @@
