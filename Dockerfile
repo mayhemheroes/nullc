@@ -18,6 +18,5 @@ WORKDIR /mayhem-nullc/build/nullcl
 # Package Stage
 FROM --platform=linux/amd64 ubuntu:20.04
 
-## TODO: Change <Path in Builder Stage>
 COPY --from=builder /mayhem-nullc/build/nullcl/nullcl /
 
