@@ -1,4 +1,4 @@
-project: mayhem-nullc
+project: nullc
 target: nullcl
 
 cmds:
