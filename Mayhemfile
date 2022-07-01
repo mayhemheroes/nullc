@@ -2,4 +2,4 @@ project: nullc
 target: nullcl
 
 cmds:
-  - cmd: ./nullcl @@
+  - cmd: /nullcl @@
